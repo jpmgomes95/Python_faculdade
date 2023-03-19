@@ -3,6 +3,7 @@ def ler_numeros():
     numero_1 = float(input("Digite o primeiro número: "))
     numero_2 = float(input("Digite o Segundo número: "))
     numero_3 =  float(input("Digite o terceiro núnmero: "))
+    
     print("Os números lidos são: "+numero_1, +", "+ numero_2+" e "+numero_3)
 
     calcular_soma(numero_1, numero_2, numero_3)
