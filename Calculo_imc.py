@@ -37,4 +37,4 @@ le_dados()
 imc = calcula_imc()
 msg =avalia_imc()
 
-print("%s tem IMC de: %.2f e está %s" % (nome, imc, msg))
+print("%s tem IMC de: %.2f e está com %s" % (nome, imc, msg))
